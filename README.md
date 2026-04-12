@@ -27,6 +27,9 @@ WHAT YOU NEED
 
 WIRING DIAGRAM
 ──────────────────────────────────────────────────────────────
+![Arduino Servo Wiring](arduino_servo_wiring.svg)
+
+
   Each servo has 3 wires:
 
     RED wire    →  Breadboard + rail  (power)
@@ -170,6 +173,4 @@ SERIAL COMMAND FORMAT (for reference)
     Gripper  0–60°
 
 
-──────────────────────────────────────────────────────────────
-  Good luck with your build! 🦾
-──────────────────────────────────────────────────────────────
+
