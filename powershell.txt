@@ -1,0 +1,3 @@
+// run your project path in your powershell
+
+C:/Users/HP/AppData/Local/Programs/Python/Python314/python.exe "c:/Users/HP/OneDrive/Desktop/robotic_arm_project/robotic_arm_project/bridge.py"
